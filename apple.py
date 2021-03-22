@@ -6,4 +6,5 @@ def fac(num):
 
 m = int(input('m = '))
 n = int(input('n = '))
-print(fac(m) // fac(n) // fac(m - n))
+print(fac(m) // fac(n) // fac(m - n)
+      #分苹果
